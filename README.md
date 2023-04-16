@@ -9,3 +9,5 @@ Lista zrealizowanych projektów komercyjnych:
 7. https://infraservice.pl/
 8. https://clima4you.pl/
 9. https://fmceramika.com/
+10. https://fabrykanaukowcow.pl/2023
+11. https://fabrykanaukowcow.pl/blog
